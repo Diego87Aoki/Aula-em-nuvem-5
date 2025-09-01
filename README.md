@@ -39,6 +39,15 @@ O arquivo PDF entregue contém as seguintes seções acadêmicas:
     -   24 meses → on-premise mais barato (R\$ 108.000,00 vs R\$
         115.200,00).\
     -   Ponto de equilíbrio ≈ 20,87 meses.
+ 
+      ## 📖 O que aprendi nesta aula
+- A importância de compreender os **provedores de nuvem** e suas diferenças (AWS, Azure, Google Cloud, Oracle).  
+- Como funcionam as **métricas de custo**: armazenamento, instâncias e operações.  
+- Os **modelos de tarifação** (sob demanda, reserva, descontos) e sua influência no custo total.  
+- O impacto do **horizonte temporal** na escolha entre nuvem (OpEx) e on-premise (CapEx).  
+- Que decisões em TI não se resumem ao preço inicial, mas à **estratégia de negócio** e à **elasticidade da demanda**.  
+- A relevância de buscar **certificações em nuvem** (AWS, Azure, Google Cloud) como diferencial profissional.  
+
 
 ------------------------------------------------------------------------
 
